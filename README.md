@@ -33,18 +33,8 @@ A Spring Boot-based digital wallet application that enables users to register, a
 
 ## 📁 Project Structure
 
-wallet-app/
-├── src/
-│ ├── main/
-│ │ ├── java/com/wallet/
-│ │ │ ├── controller/
-│ │ │ ├── entity/
-│ │ │ ├── repository/
-│ │ │ ├── security/
-│ │ │ └── service/
-│ │ └── resources/
-│ │ ├── application.properties
-├── pom.xml
+![image](https://github.com/user-attachments/assets/c2c0675d-f897-4757-9dfb-30a441a7c4c8)
+
 
 ![Alt Text](https://github.com/user-attachments/assets/db5cc20b-082c-4c63-ada6-62088ed74e8f)
 
