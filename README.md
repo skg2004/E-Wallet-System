@@ -1,5 +1,5 @@
 # E-Wallet-System
-# 💰 Digital Wallet App
+# 💰 Digital Wallet App Backend
 
 A Spring Boot-based digital wallet application that enables users to register, authenticate, check balances, purchase products, and view transaction history. Built with Java, Spring Boot, Spring Security, and MySQL.
 
