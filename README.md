@@ -27,7 +27,7 @@ A Spring Boot-based digital wallet application that enables users to register, a
 | Database         | MySQL                       |
 | Build Tool       | Maven (pom.xml)             |
 | API Style        | REST APIs                   |
-| IDE              | IntelliJ / VS Code          |
+| IDE              | IntelliJ                    |
 
 ---
 
